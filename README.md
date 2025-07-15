@@ -35,6 +35,6 @@ Para executar o jogo na placa DE1-SoC, siga os passos abaixo:
 - **Leonardo Ryuiti Miasiro**
 - **Pedro Marchi Nunes**
 
-Alunos do curso de **Engenharia da Computação** da **Universidade Federal de São Carlos (UFSCar)**.
+Estudantes de **Engenharia da Computação** na **Universidade Federal de São Carlos (UFSCar)**.
 
-Este projeto foi desenvolvido como trabalho prático da disciplina **Projetos de Sistemas Computacionais Embarcados**.
+Este projeto foi desenvolvido no **Departamento de Computação da UFSCar**, como trabalho prático da disciplina **Projetos de Sistemas Computacionais Embarcados**, ministrada pelo professor **Emerson Carlos Pedrino**.
