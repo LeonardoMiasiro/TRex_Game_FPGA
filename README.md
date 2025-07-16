@@ -18,10 +18,10 @@ O T-Rex corre continuamente pela tela enquanto obstáculos (cactos) se aproximam
 
 Para executar o jogo na placa DE1-SoC, siga os passos abaixo:
 
-1. **Instale o Quartus Prime 18.1** em seu computador.
-2. Baixe e instale o **FPGA Monitor Program** dentro da pasta de instalação do Quartus.
+1. Instale o Quartus Prime 18.1 em seu computador.
+2. Baixe e instale o FPGA Monitor Program dentro da pasta de instalação do Quartus.
 3. Ligue a placa DE1-SoC via cabo USB e cabo VGA (monitor externo).
-4. Abra o **FPGA Monitor Program**.
+4. Abra o FPGA Monitor Program.
 5. Importe ou abra o projeto `.c` com o jogo do T-Rex.
 6. Compile e carregue o código na FPGA.
 7. O jogo será exibido automaticamente no monitor.
